@@ -1,6 +1,6 @@
 version: 1
 
-# Entry 1: cn=user1@myldap.demo.acs,dc=myldap,dc=demo,dc=acs
+# Entry 1: cn=user1@myldap.rhocp.demo,dc=myldap,dc=rhocp,dc=demo
 dn: cn=user1@myldap.rhocp.demo,dc=myldap,dc=rhocp,dc=demo
 changetype: add
 cn: user1@myldap.rhocp.demo
