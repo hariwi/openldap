@@ -1,0 +1,1 @@
+kubectl run mariadb-galera-client --rm --tty -i --restart='Never' --namespace openldap --image bitnami/mariadb-galera:10.4.13-centos-7-r20 --command -- bash
