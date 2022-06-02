@@ -4,7 +4,7 @@ FROM osixia/openldap
 
 # Set the environment variables
 
-ENV LDAP_ORGANISATION="myldap rhocp Name" \
+ENV LDAP_ORGANISATION="rhid" \
 
 LDAP_DOMAIN="myldap.rhocp.demo" \
 
